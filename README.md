@@ -1,7 +1,3 @@
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
-
 ## mini项目
 
 本项目诞生之初是为了适配Quantumult X 1.07版本新增的机场订阅img-url特性，经过不断发展，包含了机场订阅图标，Task图标，节点地区图标，策略组图标等
